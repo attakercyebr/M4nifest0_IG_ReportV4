@@ -43,9 +43,12 @@
 
 📌 Do not do this if you encounter an error while using the proxy.
 
-# See how it works
+# See how it works V1 | V2 | V3 | V4
 ----------------------
-- 🔞 https://t.me/M4nifest0/625
+- 🤡 V1 https://t.me/M4nifest0/332
+- 🤡 V2 https://t.me/M4nifest0/553
+- 🤡 V3 https://t.me/M4nifest0/562
+- 🤡 V4 https://t.me/M4nifest0/626
 
 # Visit the following channels and sites for more training and tools:
 ----------------------
