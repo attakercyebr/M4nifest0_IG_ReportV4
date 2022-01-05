@@ -4,7 +4,10 @@
 
 Tested in Kali GNU/Linux Rolling x86_64 | Kernel: 5.15.0-kali2-amd64
 
+```bash
 pip install pytransform && pip install pyarmor && pip install --upgrade pyarmor && pip install pyarmor-webui && export PATH="$HOME/.local/bin:$PATH" && pyarmor --version
+```
+
 ## Program Features
 
 ----------------------
