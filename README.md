@@ -4,8 +4,14 @@
 
 Tested in Kali GNU/Linux Rolling x86_64 | Kernel: 5.15.0-kali2-amd64
 
+Clone the repository:
+
 ```bash
-pip install pytransform && pip install pyarmor && pip install --upgrade pyarmor && pip install pyarmor-webui && export PATH="$HOME/.local/bin:$PATH" && pyarmor --version
+cd /usr/share && sudo git clone https://github.com/attakercyebr/M4nifest0_IG_ReportV4 && cd M4nifest0_IG_ReportV4
+```
+
+```bash
+pip install pytransform && pip install pyarmor && pip install --upgrade pyarmor && pip install pyarmor-webui && export PATH="$HOME/.local/bin:$PATH" && sudo mkdir /usr/share/M4nifest0_IG_ReportV4/pytransform/platforms && sudo mkdir /usr/share/M4nifest0_IG_ReportV4/pytransform/platforms/linux && sudo mkdir /usr/share/M4nifest0_IG_ReportV4/pytransform/platforms/linux/x86_64 && sudo wget http://pyarmor.dashingsoft.com/downloads/latest/linux_x86_64/_pytransform.so && pyarmor --version && cd /usr/share/M4nifest0_IG_ReportV4 && python3 get_platform_name.py && python3 install.py
 ```
 
 ## Program Features
