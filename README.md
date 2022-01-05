@@ -1,7 +1,12 @@
-# ![Locations](https://github.com/M4nifest0/M4nifest0_WhatsApp/blob/master/s.png) 
+# ![Locations](https://github.com/M4nifest0/M4nifest0_WhatsApp/blob/master/s.png)
 
+## Install Prerequisites
 
-##### Program Features
+Tested in Kali GNU/Linux Rolling x86_64 | Kernel: 5.15.0-kali2-amd64
+
+pip install pytransform && pip install pyarmor && pip install --upgrade pyarmor && pip install pyarmor-webui && export PATH="$HOME/.local/bin:$PATH" && pyarmor --version
+## Program Features
+
 ----------------------
 📌 Instagram report V4.
 
